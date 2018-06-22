@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/App_Data/PublishProfiles
+/test
+/.htaccess
+/mail
+/website.publishproj
